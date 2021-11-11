@@ -1,0 +1,108 @@
+{
+    "Changes": [
+        {
+            "LogName": "Year 2 Festival Egg Festival - spring13.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13.xnb",
+            "Entries": {
+                "Abigail": "Sebastian dan Sam bukanlah tandinganku. Tapi @, kamu itu orangnya sulit ditebak.",
+                "Haley": "Rasanya Egg Festival lebih seru semasa aku kecil. Mungkin kelak aku akan kesini dengan anak-anakku.$h",
+                "Leah": "Menurutmu berapa jumlah telur rebus yang bisa kumasukkan ke mulut dalam sekali kunyah?$h",
+                "Penny": "Kali ini tolong mengalah sama anak-anak ya. Kalau kamu bisa menghentikan Abigail menemukan banyak telur, itu membantu banget.$h",
+                "Sebastian": "Padahal bau telurnya bikin mual. Kenapa aku malah datang kesini?$s",
+                "Shane": "Aku mau menyemangati Jas. Dia sudah latihan mencari telur di peternakan.$h"
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Flower Dance - spring24.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24.xnb",
+            "Entries": {
+                "Abigail": "Jujur, pakaian orang-orang untuk dansa bagus semua. Semuanya tampak menawan!",
+                "Haley": "Tadi pagi rambutku kurias lebih dari sejam. Gimana? Bagus kan? Tambah cantik ya?$h",
+                "Leah": "Acara ini terlalu mewah bagiku, tapi aku harus tetap sportif.$h",
+                "Penny": "Aku suka demam panggung pas Flower Dance... Andai saja aku tadi bawa buku.$u",
+                "Sebastian": "Padahal aku tidak suka merias diri untuk Flower Dance. Terus kenapa masih saja kulakukan?",
+                "Shane": "Aku selalu bilang takkan ikut dansa, tapi Marnie mendesakku dan bilang akan membuatku merasa lebih baik. Semoga nanti aku tidak salah langkah."
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Luau - summer11.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11.xnb",
+            "Entries": {
+                "Abigail": "Aku tadi bawa labu untuk sup, tapi dilarang. Kata orang-orang sudah bukan musimnya!#$e#Mereka ini siapa sih?$h",
+                "Haley": "Luau itu festival favoritku. Pokoknya apa saja kalau diadakan di pantai aku suka!$h",
+                "Leah": "Aku lapar banget dan supnya bikin ngiler. Kapan kita mulai makan?$h",
+                "Penny": "Jadi, kamu bawa apa untuk sup tahun ini? Pasti langsung diambil dari kebun!$h",
+                "Sebastian": "Kalau misal menunggu semua orang ambil sup, aku bisa hindari obrolan mereka...#$b#Tapi kalau misal begitu, bisa-bisa aku malah tidak kebagian sup. Jadi bimbang.$s",
+                "Shane": "Kamu sudah incip supnya? Tahun ini rasanya bagus. Hot Peppernya bikin rasanya naik tingkat."
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Moonlight Jellies - summer28.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28.xnb",
+            "Entries": {
+                "Abigail": "Aku suka melihat Ubur-Ubur Moonlight. Mereka bisa meringankan beban pikiranku.",
+                "Haley:": "Sial, aku lupa bawa kamera lagi! Padahal aku mau merekam keindahan ubur-ubur ini...$s#$b#Er, ya... kamera yang digital. Kamu tahu lah yang aku maksud!$u",
+                "Leah": "Ubur-uburnya tahu nggak kalau musim panas sudah berakhir? Terus apa mereka paham sama prinsip 'musim'?",
+                "Penny": "Melihat ubur-ubur ini selalu membuatku sayu. Mereka mengingatkanku dengan kenangan yang pahit...$s",
+                "Sebastian": "Aku pengin lihat Ubur-Ubur Moonlight sendiri...$s#$e#Aku lagi nggak ingin ngobrol.$u",
+                "Shane": "Melihat ubur-ubur ini membuat masalahku jadi terasa... lebih ringan dari dugaanku."
+            }
+        },
+        {
+            "LogName": "Year 2 Festival SDV Fair - fall16.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16.xnb",
+            "Entries": {
+                "Abigail": "Sebelum kedatanganmu dulu, tidak ada lawan yang bisa menyeimbangi produk Pajangan Ayah. Kali ini tolong mengalah ya, biarkan dia menang.",
+                "Haley:": "Etalase itu apa sih? Aku cuma sering dengar kata itu di festival ini. Apa itu jenis buah dan sayur?$u#$b#Tunggu, apa jangan-jangan etalase itu nama tempat untuk memajang produk? Iya kah? Atau mungkin aku yang selama ini salah paham? Bingung deh.$s",
+                "Leah": "Mungkin aku harus ikut mendirikan stan dan menjual karya seniku. Tapi entahlah... apa ada yang mau membelinya?",
+                "Penny": "Aku lumayan jago sama permainan di festival ini. Aku kasih saran: pasang semua Star Tokenmu di Spinning Wheel untuk warna hijau. Peluang menangnya sangat tinggi lo!$h",
+                "Sebastian": "Banyak sekali orang yang datang untuk festival ini. Semoga mereka semua segera pulang.#$e#Tapi, kalau begitu pasti Peramal Nasibnya tahu lebih dulu.$u",
+                "Shane": "Coba cek telur-telur di pajangannya Marnie. Semuanya merupakan telur terbaik yang pernah dihasilkan ayam-ayamnya!"
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Spirits Eve - fall27.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27.xnb",
+            "Entries": {
+                "Abigail": "Mau masuk duluan nggak, @? Tolong sekalian cek pojokan sana ada laba-labanya atau tidak. Kalau tidak ada kasih tahu ya!",
+                "Haley": "Aku nggak akan main ke labirin. Terlalu seram. Malahan, aku pengin pulang!",
+                "Leah": "Pumpkin Ale tahun ini agak pedas rasanya. Sudah coba belum?",
+                "Penny": "Bau dari panci ini membuat perutku sakit. Apa mungkin ada Hops di dalamnya?$s",
+                "Sebastian": "Lihatlah tengkorak ini. Keren banget...$u",
+                "Shane": "Main di labirin itu bukan hal untukku. Aku lebih suka duduk-duduk disini sambil meneguk Pumpkin Ale."
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Ice Festival - winter8.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8.xnb",
+            "Entries": {
+                "Abigail": "Lihatlah pasukan saljuku, @! Gimana menurutmu?#$b#Dia sama sekali nggak mirip aku, monyet! Ngomong gitu lagi aku masukin salju ke bajumu!$h",
+                "Haley": "Mancing di es itu menurutku aneh. Ngapain coba dingin-dingin malah mancing ikan?$u",
+                "Leah": "Aku pernah dengar ada orang yang bikin patung es pakai gergaji mesin. Keren ya?$h",
+                "Penny": "$y 'Jadi... tahun ini kita bikin manusia salju yang seperti apa?_Yang mirip Mayor Lewis! Punya kumis, tali selempang, celana pendek ungu._Oke, pasti bakal lucu jadinya! Ayo mulai.$h_Bikin yang seram. Ada alien bertaring yang keluar dari perutnya._Em, aku belum pernah buat yang seperti itu. Kamu yakin?$s_Kita bikin Iglo saja!_Kok malah bikin Iglo? Anak-anak itu inginnya buat manusia salju.$u'",
+                "Sebastian": "Kalau ada satu orang saja yang mendekatiku lalu bilang 'ini sudah cukup dingin belum buatmu?'... Aku bakal langsung pulang.",
+                "Shane": "Kira-kira ikan yang sudah ditangkap orang-orang mau diapakan sama Mayor?"
+            }
+        },
+        {
+            "LogName": "Year 2 Festival Winter Star - winter25.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25.xnb",
+            "Entries": {
+                "Abigail": "Coba kamu cek Ibu, @. Kayaknya tadi dia menukar tehnya dengan telur kopyok. Ibu lucu kalau mulai mabuk.$h",
+                "Haley": "Meskipun kamu bukan pemberi kado rahasiaku tahun ini, tanganku masih terbuka sama kado darimu kok!$h",
+                "Leah": "Aku bersyukur karena hidup telah menuntunku ke Pelican Town. Tempat ini sangat cocok denganku.$h",
+                "Penny": "Pohon tahun ini harum sekali. Coba kamu cium baunya. Iya kan?$h",
+                "Sebastian": "Asalkan makanannya enak-enak, aku bisa tahan lama duduk dengan keluargaku.#$b#Tapi begitu piringku sudah kosong, tempat dudukku juga melompong.",
+                "Shane": "Aku sudah coba tahan, tapi kayaknya aku kelaparan. Kamu tahu kapan makanannya disajikan?"
+            }
+        }
+    ]
+}
