@@ -1,0 +1,31 @@
+{
+    "Changes": [
+        {
+            "LogName": "Rainy",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/rainy",
+            "Entries": {
+                "Abigail": "#$c .5#Aku suka sama pemandangan lembah saat hujan. Semuanya jadi terasa romantis...#Aku jadi ingin hujan-hujan kalau sudah begini. Hujan-hujan itu seru.",
+                "Haley": "#$c .5#Hujan badai bikin aku gelisah. Aku takut bajuku kotor. Terus gunturnya kadang seram.$s#Padahal hari ini aku mau keluar dan merekam video, tapi malah hujan. Mungkin besok sudah terang.$u",
+                "Leah": "#$c .5#Hujan badai itu indah ya? Langitnya tampak seperti lukisan.#Bagiku hujan itu bukan masalah. Kalau tidak bisa mendaki, aku tinggal melukis, memahat, atau membaca buku... Kata bosan tidak ada dalam kamusku.$h",
+                "Penny": "#$c .5#Aku suka membaca sambil melingkar dibalut selimut saat hujan. Terasa seperti pelukan.$h#Entah kenapa badai kali ini membuatku sedih. Aku harus merenung dulu.$s",
+                "Sebastian": "#$c .5#Saat hujan seperti ini, aku suka sekali berdiri di dermaga sambil memandang Gem Sea. Bikin aku merasa lebih baik.#Dan hal terbaiknya tak ada orang keluar rumah saat hujan, jadi rasanya seperti dunia milik sendiri.",
+                "Shane": "#$c .5#Hujan selalu membuatku malas. Yah, mau gimana lagi.#Seharian ini, aku mau di ranjang terus. Beneran bikin aku jadi malas.$s"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ExtraDialogue",
+            "Entries": {
+                "SeedShop_Abigail_Drawers": "Menurutmu menggeledah lemari pakaian orang lain itu sopan? Cepat @, tutup lemarinya... dasar aneh.$u"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Strings/Locations",
+            "Entries": {
+                "SeedShop_Abigail_Drawers": "Lemari pakaian Abigail. Ada batuan ungu terselip di antara benda-benda lain."
+            }
+        }
+    ]
+}
