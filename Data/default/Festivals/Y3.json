@@ -1,0 +1,108 @@
+{
+    "Changes": [
+        {
+            "LogName": "Year 3 Festival Egg Hunt - spring13.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13.xnb",
+            "Entries": {
+                "Abigail": "Aku belum bilang ya, kalau aku sudah latihan untuk perburuan telur tahun ini. Akan kurajai perlombaan ini!$h",
+                "Haley": "Aku beli gaun baru untuk festival. Bagus tidak?$h",
+                "Leah": "Aku lagi pengin makan jamur dan omelet keju...",
+                "Penny": "Kalau kamu tidak berniat mengalah sama anak-anak tahun ini, setidaknya tolong kalahkan Abigail ya?$u",
+                "Sebastian": "Festival kali ini aku ingin santai. Jadi aku merokok saja.",
+                "Shane": "Tidak ada ayam yang terluka dalam perencanaan Egg Festival ini."
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Flower Dance - spring24.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring24.xnb",
+            "Entries": {
+                "Abigail": "Kita dansa lagi tahun ini?#$e#Jangan hiraukan noda di gaunku. Itu Blackberry Cobbler.",
+                "Haley": "Aku suka merias diri untuk Flower Dance. Kita harus sering-sering mengadakan festival seperti ini.$h",
+                "Leah": "Bisa bayangin nggak kalau aku mendaki gunung pakai gaunnya Flower Dance?$h",
+                "Penny": "Aku sudah lebih siap untuk Flower Dance tahun ini. Tapi masih deg-degan sih.$s",
+                "Sebastian": "Kok bisa hal seperti ini jadi tradisi di Pelican Town? Dasar orang-orang aneh.$u",
+                "Shane": "Entah kenapa masih ada yang mau dansa denganku. Padahal gerakan kakiku tidak selaras."
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Luau - summer11.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11.xnb",
+            "Entries": {
+                "Abigail": "Cuacanya panas dan juga sepatuku kemasukan pasir. Kayaknya aku butuh banyak tabir surya juga...",
+                "Haley": "Semoga sup tahun ini dibikin pakai santan kelapa. Kan kelapa itu rasa favoritku.$h",
+                "Leah": "Supnya kurang masam... Aku mau pulang dan ambil sebotol wine dulu!$h",
+                "Penny": "Pak Gubernur menurutku orangnya aneh. Entah gimana menjelaskannya.$s",
+                "Sebastian": "Bau supnya sedap, tapi ada banyak orang di dekat panci. Nanti saja deh.",
+                "Shane": "Pasti keren ya kalau mereka bisa membuat sup yang rasanya seperti pizza?$h"
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Moonlight Jellies - summer28.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28.xnb",
+            "Entries": {
+                "Abigail": "Ini malam yang sempurna untuk melihat Ubur-Ubur Moonlight. Aku jadi ingin seperti mereka.",
+                "Haley": "Kalau misal aku lari ke rumah dan ambil kamera nanti ketinggalan nggak pas ubur-uburnya muncul?$u",
+                "Leah": "Kalau kita tidak peduli dengan laut kita, ubur-ubur ini bisa saja punah. Aku benci kalau semisal itu terjadi.$s",
+                "Penny": "Mereka sangat anggun dan indah... Mereka pernah tahu rasanya ditelantarkan atau tidak ya?$s",
+                "Sebastian": "Kalau misal aku lompat ke laut, apa menurutmu para Ubur-Ubur Moonlight akan mengajakku pergi bersama mereka?",
+                "Shane": "Semalam aku mimpi mau pergi melihat Ubur-Ubur Moonlight, tapi pas sampai ternyata semua Ubur-Uburnya jadi ayam. Apa-apaan coba?$u"
+            }
+        },
+        {
+            "LogName": "Year 3 Festival SDV Fair - fall16.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall16.xnb",
+            "Entries": {
+                "Abigail": "Kurasa untuk tahun depan mereka harus menyediakan gim arkade yang berhadiah Star Token.#$b#Nanti akan kubicarakan dengan Mayor Lewis.",
+                "Haley": "Mau kufoto pajanganmu tahun ini? Biar tahun depan kamu bisa memajang yang beda.$h",
+                "Leah": "Festival ini memang tempat yang cocok buat menjual karya seniku. Mungkin tahun depan akan kumulai.$u",
+                "Penny": "Bau dari ikan pajangan Willy mulai tercium sampai sini... ihh...$s",
+                "Sebastian": "Aku tanya ke Peramal Nasib apa nantinya aku akan pindah ke kota. Dia menjawab... 'Pergi sana.'#$e#Aku tidak mengerti maksudnya.$s",
+                "Shane": "Apa tahun ini ada telur di pajanganmu? Mungkin nanti aku akan mampir dan lihat-lihat."
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Spirits Eve - fall27.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27.xnb",
+            "Entries": {
+                "Abigail": "Aku tadi lihat laba-laba dan langsung putar balik. Mereka menyeramkan!$s",
+                "Haley": "Kamu serius mau ke labirin? Kalau sudah nanti kasih tahu ya, labirinnya seseram apa.$s",
+                "Leah": "Apa kamu pernah dengar Wine dari labu? Kayak gimana rasanya?",
+                "Penny": "Jangan bilang siapa-siapa, tadi bukuku tercebur ke panci ramuan. Ups!$h",
+                "Sebastian": "Selama bertahun-tahun kurasa aku lihat tengkoraknya dikendalikan dengan benang. Tapi ternyata tidak. Sihir macam apa ini?",
+                "Shane": "Hal seperti ini tidak membuatku takut. Banyak hal di hidup yang lebih menyeramkan dari laba-laba palsu."
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Ice Festival - winter8.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8.xnb",
+            "Entries": {
+                "Abigail": "Kurasa ini karya terbaikku sejauh ini, gimana menurutmu?$h#$b#Lebih mending dari patungnya Leah yang kayak... yah, kayak gitu lah.#$e#Mungkin aku bisa mendonasikannya ke museum. Pak Gunther ada dimana?$h",
+                "Haley": "Rasanya kayak membeku disini. Ayo semuanya cepat dimulai acaranya!$u",
+                "Leah": "Patung ini indah ya, gimana menurutmu? Aku jadi punya ide...",
+                "Penny": "Tidak, tahun ini aku tidak terima saran. Tahun lalu aku dan anak-anak kena getahnya. Kamu mancing saja sana.$u",
+                "Sebastian": "Dulu Mayor pernah tanya apa aku mau ikut lomba memancing. Aku jawab dengan memutar mata. Lalu dia nggak pernah tanya lagi.",
+                "Shane": "Dingin-dingin kita disuruh kumpul disini cuma buat ini? Mending aku ke Saloon saja."
+            }
+        },
+        {
+            "LogName": "Year 3 Festival Winter Star - winter25.xnb",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter25.xnb",
+            "Entries": {
+                "Abigail": "Saat ayahku pening memikirkan pengeluaran konsumsi untuk festival, ibuku pening karena kebanyakan minum wine. Punya keluarga kok begini amat.",
+                "Haley": "Aku kangen sama ayah ibuku. Mereka suka Feast of the Winter Star. Andai saja mereka ada disini.$u",
+                "Leah": "Kita semua sangat bersyukur atas jamuan yang disediakan di depan kita. Dan ada banyak hal lain untuk disyukuri.$h",
+                "Penny": "Aku merasa berterima kasih atas banyak hal di tahun ini. Lalu aku juga sangat lapar.$h",
+                "Sebastian": "Demetrius seharian ini bikin aku emosi terus. Kebanyakan ngatur-ngatur. Memangnya dia siapa?",
+                "Shane": "Menurutmu aneh tidak kita jamuannya di luar padahal cuacanya dingin? Padahal kalau dalam ruangan hangatnya makanan bisa lebih tahan lama."
+            }
+        }
+    ]
+}
