@@ -1,0 +1,55 @@
+{
+    "Changes": [
+    {
+        "LogName": "Haley",
+        "Action": "EditData",
+        "Target": "Characters/Dialogue/Haley",
+        "Entries":
+        {
+            "Introduction": "Oh, kalau gak salah kamu petani baru itu ya? Aku Haley.$u#$e#Ya, dari pakaianmu yang... unik, sudah kelihatan kok. Padahal kamu ganteng kalau nggak pakai baju yang... kayak gitu.$u",
+            "Mon": "Namamu siapa? Aku lupa.$s",
+            "Mon2": "Di rumah, kakakku yang sering memasak. Tapi masakannya aneh-aneh.$u#$e#Kayak Kinoa. Kinoa itu apa coba? Biji-bijian? Atau padi-padian? Atau malah pasta? Kamu petani kan, pasti tahu lah...$u",
+            "Mon4": "Hai @. Mau kemana?$h#$e#Oke, tapi jangan kotor-kotoran ya!$u",
+            "Mon6": "Ah, musim semi yang indah. Aku senang lihat semua Daffodil bermekaran.$h#$e#Kota ini memang kecil, tapi keindahannya tiada tanding.$h",
+            "Mon8": "Tahun ini agendaku banyak. Aku nggak sabar untuk memulainya.$h#$b#Agendaku hari ini? Mau menyortir isi lemari. Pakaianku ada banyak banget!$h#$e#Saat membuka lemari, aku sadar ternyata aku ini boros. Sudah waktunya untuk berubah.$h",
+            "Mon10": "Aku masih ingat awal-awal kita kenal. Aku selalu jual mahal sama kamu, padahal kamu ganteng. Aku cuma tidak mau disakiti.$l#$e#Sekarang aku tahu kamu nggak akan pernah menyakiti aku. Aku bersyukur karena kamu pindah ke Pelican Town.$l",
+            "Tue": "Bukannya kemarin kamu sudah pakai baju itu?$u#$b#Setiap hari coba deh ganti baju.",
+            "Tue2": "Di musim semi hutannya jadi becek dan jorok. Pokoknya aku nggak mau kesana.$s#$b#Sepatu ini kebagusan kalau dipakai di sana.$u",
+            "Tue4": "Senang rasanya lihat bunga-bunga bermekaran. Apalagi yang merah muda, baunya harum!$h#$e#Sudah wangi, bunganya juga cantik. Mirip banget sama aku!$h",
+            "Tue6": "Aku mau merapikan isi lemari. Pasti ada ratusan sepatu yang menuhin lemariku!$h#$b#Kapan-kapan bantuin aku ya?$l",
+            "Tue8": "@! Senang hari ini bisa ketemu. Aku selalu senang kalau ada kamu.$h#$e#Sering-sering main ke rumahku ya? Kamu orangnya ramah.$h",
+            "Tue10": "Aku masih nggak percaya kita bisa jadian. Mungkin ini konyol, tapi dari awal kenal aku selalu ingin jadi pacarmu.$h#$e#Aku selalu kesulitan menyampaikan sesuatu. Tapi aku terus belajar. Kayak ini misal... Aku pengin menciummu. Mau ciuman?$l",
+            "Wed": "Apa?$u#$e#Ya, aku nggak peduli.",
+            "Wed2": "Dunia luar itu luas, dan Pelican Town kurang menarik bagiku.$s#$e#Aku nggak percaya kamu malah pindah ke tempat ini.$u",
+            "Wed4": "Emily mau buatin aku gaun musim semi, aku ketawain dia. Dan kayaknya dia tersinggung.$s#$e#Aku nggak berniat bikin dia tersinggung. Tapi membayangkan diriku pakai gaun rumahan itu... absurd.$s",
+            "Wed6": "Entah aku sudah pernah bilang apa belum, tapi orang tuaku lagi keliling dunia. Karena itu aku sama Emily yang mengurus rumah.#$e#Kangen sih. Tapi aku ingin mereka bahagia. Lagipula itu sudah jadi gairah mereka.$h",
+            "Wed8": "Banyak hal yang kusuka dari Pelican Town, tapi ada dua yang paling menonjol bagiku...$u#$b#Yang pertama pantainya. Aku sering kesana karena suka berjemur.$h#$e#Yang kedua? Oh, em... itu rahasia.$l",
+            "Wed10": "Gimana rasanya pacaran sama orang paling menawan di Pelican Town?$l#$b#Bercanda kok! Masak aku tanya hal yang nggak penting seperti itu.$h#$e#Kayaknya aku malah ada di posisi dua. Soalnya aku tahu siapa yang jauh lebih menawan dariku di Pelican Town.$l",
+            "Thu": "Kota ini ngebosenin.#$e#Kayaknya kamu salah sudah pindah kesini.$u",
+            "Thu2": "Kayaknya kamu belum merubah cara berpakaianmu seperti saranku.$s#$b#Petani emang aneh.$u",
+            "Thu4": "Wah, @, tumben rambutmu bagus hari ini. Habis keramas ya?#$b#Oh, bukan gitu maksudku. Aku cuma mau memberi pujian.$s",
+            "Thu6": "Aku mulai terbiasa sama tampilanmu yang apa adanya, @.#$e#Kayaknya aku nggak bisa bergaya dengan tampilan petani, tapi kamu beda.$h",
+            "Thu8": "Kukira dulu tidak ada orang Pelican Town yang pantas kupacari. Tapi ternyata aku salah.$l",
+            "Thu10": "Kapan-kapan... kita pergi berkemah yuk. Mau nggak?$h#$e#Kita bisa tampil serasi pakai tema outdoor. Nanti atasannya kotak-kotak terus bawahnya celana pendek khaki!$h",
+            "Fri": "Um...$u#$e#%Haley nyuekin kamu.",
+            "Fri2": "Kayaknya aku belum pernah ke kebunmu...$u#$b#Dan kayaknya aku nggak bakal kesana. Baunya pasti bikin aku muntah.$s",
+            "Fri4": "Clint kok ngebet banget sama Emily ya?$h#$e#Apa yang dia sukai dari Emily?$u",
+            "Fri6": "Kamu pernah aku kasih lihat kameraku belum? Banyak fotografer profesional pakai yang sama. Dari kecil aku sudah suka foto-foto.#$b#Kalau tertarik, kapan-kapan bisa kuajari. Aku yakin ada banyak hal indah yang bisa difoto dari kebunmu!$h",
+            "Fri8": "Kamu suka nggak sama gaun ini, @? Kuberitahu ya. Ini tuh gaun dari tahun lalu. Nggak disangka ya?$h#$e#Pas aku keluarin dari lemari... aku kepikiran 'Kayaknya kamu masih cocok pakai ini, Haley. Bodo amat meski model tahun lalu.'$h",
+            "Fri10": "Nanti aku mau menginap di rumahmu, @. Boleh nggak? Kamu nggak lagi sibuk kan?$l#$e#Akan kukabari Emily dulu.$l",
+            "Sat": "Andai saja ada mall di Pelican Town. Aku butuh baju baru. Kamu juga!$h",
+            "Sat2": "Musim semi itu bagus, tapi aku lebih suka musim panas. Dan aku benci banget sama musim dingin!$u",
+            "Sat4": "Pakaian musim dinginku hampir selesai kukemasi semua untuk disumbangkan. Aku sudah bosan sama itu!$h#$e#Iya sih... Tapi kan nanti tinggal beli lagi. Apa salahnya?$u",
+            "Sat6": "Aku ingat pas awal-awal kita kenal, @. Aku sering ngomong kasar sama kamu.$s#$b#Maafin ya. Aku nggak sopan. Aku janji bakal jadi temen yang lebih baik. Supaya kamu suka.$l",
+            "Sat8": "#$1 haleySeagull#Kemarin aku lihat ada burung camar yang sayapnya nyangkut di jala. Langsung aku lepasin. Dia nggak berdaya, kasihan.$k$s#$e#Kayaknya aku harus lebih rutin olahraga... tubuh ini nggak akan selamanya muda.",
+            "Sat10": "Meski banyak kesalahan yang kubuat dalam hidup, tapi aku tahu aku belum terlambat untuk memperbaikinya.  Nggak peduli separah apapun itu, pasti bisa diperbaiki.$u#$e#Kalau kau butuh bantuan soal itu, cari saja aku. Aku akan selalu ada buatmu, @.$l",
+            "Sun": "#$1 HaleyClothes#Hari ini menata baju saja deh. Baju-baju lama harus disendirikan, biar ada ruang buat baju-baju baru!#$e#*hahh* Aku pengin makan Cupcake.#$e#Hm, ada yang bisa dibantu?",
+            "Sun2": "Kemarin aku nemu cangkang kerang di pantai. Musim panas itu pas buat nyari cangkang kerang.$h#$e#Kapan-kapan coba deh nyari cangkang di pantai!",
+            "Sun4": "Oh @, untung banget ketemu kamu disini. Coba cium rambutku!$h#$b#Aku pakai kondisioner baru. Aku suka baunya. Gimana, harum kan?$u#$e#Kamu boleh cium terus kok. Baunya emang harum banget!$h",
+            "Sun6": "Emily pernah bilang aku bisa dapat banyak teman kalau saja aku nggak nyebelin. Aku langsung marah waktu itu.$u#$b#Tapi ternyata dia benar. Kurasa Emily itu banyak benarnya. Aku mulai sadar kalau dia itu pintar.",
+            "Sun8": "Tahu nggak, aku mulai terbiasa sama bau segarmu yang khas seperti kebun. Rasanya kayak bikin aku... nyaman. Masuk akal nggak sih?$u#$e#Pelican Town ternyata tempat yang hebat.$l",
+            "Sun10": "Awal-awal kamu pindah, aku ngerasa ada banyak yang curiga sama kamu. Aku juga termasuk. Tapi sekarang kamu malah jadi sosok penting di Pelican Town, @. Hebat deh.$h#$e#Jujur saja, tempat ini sudah berubah drastis berkat kamu. Aku bangga jadi pacarmu. Aku ingin semua tahu kalau aku milikmu dan kamu milikku.$l"
+        }
+    }
+]
+}
